@@ -4,7 +4,7 @@ A simple package that generates a PNG image Encoded in Base64 of the Minecraft s
 
 ## Example
 ![Example Tablist](./assets/exampletab.png)
-
+(I did not come up with this design and I forgot who did. Credits to them.)
 
 <br>
 <br>
