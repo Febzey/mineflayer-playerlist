@@ -1,0 +1,22 @@
+{
+  "name": "mineflayer-playerlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "yarn build && node lib/index.js"
+  },
+  "files": [
+    "lib",
+    "index.d.ts",
+    "assets/**"
+  ],
+  "dependencies": {
+    "canvas": "2.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.12",
+    "typescript": "^5.0.4"
+  }
+}
