@@ -1,7 +1,7 @@
 {
   "name": "mineflayer-playerlist",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.1.1",
+  "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
@@ -9,7 +9,6 @@
   },
   "files": [
     "lib",
-    "index.d.ts",
     "assets/**"
   ],
   "dependencies": {

@@ -1,14 +1,18 @@
 {
     "compilerOptions": {
-      "target": "es6",
       "module": "commonjs",
       "outDir": "lib",
       "rootDir": "src",
       "strict": true,
       "declaration": true,
-      "skipLibCheck": true,
+      "declarationMap": true,
 
+      "esModuleInterop": true,
+      "moduleResolution": "nodenext",
+
+      "skipLibCheck": true,
     },
     "exclude": ["example"],
-    "include": ["src/**/*", "index.d.ts"]
+    "include": ["src/**/*"],
   }
+  

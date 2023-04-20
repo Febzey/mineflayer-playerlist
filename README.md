@@ -12,11 +12,13 @@ A simple package that generates a PNG image Encoded in Base64 of the Minecraft s
 ## Installation
 
 ``` npm install mineflayer-playerlist ```
+
 <br>
 <br>
 or 
 <br>
 <br>
+
 ``` yarn add mineflayer-playerlist ```
 
 <br>

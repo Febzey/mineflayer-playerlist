@@ -1,6 +1,6 @@
 import path = require("path");
-import type { PlayerList } from "../..";
 import * as Canvas from "canvas";
+import type { PlayerList } from "../index";
 
 const fontPath = path.resolve(__dirname, '../../assets/mc.otf');
 const assetsDir = path.resolve(__dirname, '../../assets');
