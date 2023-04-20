@@ -63,7 +63,7 @@ A `Promise` that resolves to the generated PNG image encoded in Base64.
 `PlayerList`
 
 ```ts
-type PlayerList = {
+interface PlayerList = {
   name: string;
   ping: number;
 };
