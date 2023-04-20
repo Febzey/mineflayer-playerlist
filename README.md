@@ -8,14 +8,16 @@ A simple package that generates a PNG image Encoded in Base64 of the Minecraft s
 
 <br>
 <br>
+
 ## Installation
 
-``` npm install mineflayer-playerlist ```
-or
+``` npm install mineflayer-playerlist ``` <br>
+or <br>
 ``` yarn add mineflayer-playerlist ```
 
 <br>
 <br>
+
 ## Usage
 
 Typescript Example:
@@ -35,6 +37,7 @@ The function returns a Promise that resolves to the generated PNG image encoded 
 
 <br>
 <br>
+
 ## API
 
 ### `generateTablist(players: PlayerList[]): Promise<string>`
