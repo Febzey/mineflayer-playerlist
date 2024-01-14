@@ -40,5 +40,5 @@ try {
    * Catching errors, if any.
    */
 } catch (err) {
-  console.error(err)
-}
+  console.error(err);
+};
